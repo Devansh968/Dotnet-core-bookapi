@@ -1,0 +1,76 @@
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\appsettings.Development.json
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\appsettings.json
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.exe
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.deps.json
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.runtimeconfig.json
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.pdb
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.csproj.AssemblyReference.cache
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.AssemblyInfoInputs.cache
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.AssemblyInfo.cs
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.csproj.CoreCompileInputs.cache
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.MvcApplicationPartsAssemblyInfo.cs
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.MvcApplicationPartsAssemblyInfo.cache
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets.build.json
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets.development.json
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\scopedcss\bundle\FirstWebAPI_March16.styles.css
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.csproj.CopyComplete
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\refint\FirstWebAPI_March16.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.pdb
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.genruntimeconfig.cache
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\ref\FirstWebAPI_March16.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebAPI_March16.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebAPI_March16.props
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebAPI_March16.props
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebAPI_March16.props
+D:\AIS\C#Learning\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\appsettings.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.exe
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.deps.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.runtimeconfig.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\FirstWebAPI_March16.pdb
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.csproj.AssemblyReference.cache
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.AssemblyInfoInputs.cache
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.AssemblyInfo.cs
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.csproj.CoreCompileInputs.cache
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.FirstWebAPI_March16.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.build.FirstWebAPI_March16.props
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FirstWebAPI_March16.props
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FirstWebAPI_March16.props
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\scopedcss\bundle\FirstWebAPI_March16.styles.css
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.csproj.CopyComplete
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\refint\FirstWebAPI_March16.dll
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.pdb
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\FirstWebAPI_March16.genruntimeconfig.cache
+C:\Users\PathakDevanshu\Downloads\FirstWebAPI_March16 (2)\FirstWebAPI_March16\obj\Debug\net6.0\ref\FirstWebAPI_March16.dll
